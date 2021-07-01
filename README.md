@@ -72,5 +72,5 @@ you can't even imagine😊😈
 
 ## THIS IS ALL ABOUT ME😌
 
-[![THANKS](https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️brown?style=for-the-badge&logo=heart)]()
+[![THANKS](https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-brown?style=for-the-badge&logo=heart)]()
 
