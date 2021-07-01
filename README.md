@@ -52,7 +52,7 @@ you can't even imagine😊😈
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 
-[![HTML](https://img.shields.io/badge/HTML%20learning-grey?style=for-the-badge&logo=html5)]()
+[![HTML](https://img.shields.io/badge/HTML%20learning-brown?style=for-the-badge&logo=html5)]()
 
     
 
@@ -72,5 +72,5 @@ you can't even imagine😊😈
 
 ## THIS IS ALL ABOUT ME😌
 
-[![THANKS](https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-brown?style=for-the-badge&logo=heart)]()
+[![THANKS](https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-black?style=for-the-badge&logo=heart)]()
 
