@@ -49,7 +49,7 @@ you can't even imagine😊😈
 
 ## Computer Languages I know^•^
 
-<details> 
+<LANGUAGES> 
 
        <summary>LANGUAGES</summary>
 
