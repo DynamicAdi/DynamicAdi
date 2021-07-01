@@ -39,6 +39,7 @@ you can't even imagine😊😈
 ```
 
 ### MAKING AI TELEGRAM BOTS 
+[![PYTHON](https://img.shields.io/badge/python-1b77FF.svg?style=for-the-badge&logo=python)](https://)
 
 ### Looking for a Patner who can help in ANDROID APPS DEVELOPMENT
 
