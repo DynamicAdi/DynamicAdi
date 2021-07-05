@@ -64,7 +64,7 @@ you can't even imagine😊😈
 
 ### SOCIAL MEDIA
 
-<details> 
+
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD) [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person)
 
@@ -72,7 +72,7 @@ you can't even imagine😊😈
 
 <br>
 
-</details> 
+
 
 ## THIS IS ALL ABOUT ME😌
 
