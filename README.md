@@ -8,7 +8,9 @@ I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
 
 ##### My RealName:- Dev Adarsh pandit 😊•
 
-##### I am From west bengal•
+##### I am From west bengal, 
+##### Currently Living IN JAMMU AND KASHMIR since 14years 
+##### Father's engineer HERE
 
 ##### Can speak:- 
 
@@ -16,7 +18,9 @@ I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
 
             •Hindi
 
-            •Bengoli
+            •Bengoli 
+             
+            • Kashmiri
 
             Etc...
 
