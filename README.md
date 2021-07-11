@@ -73,7 +73,7 @@ you can't even imagine😊😈
 <br>
 # My Community on GITHUB 
 <b> 
-           [![PsychoBots](https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github)](https://github.com/PsychoBots)
+           [![PsychoBots](https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github)](https://github.com/PsychoBots)] </b>
 
 
 ## THIS IS ALL ABOUT ME😌
