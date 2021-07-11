@@ -20,9 +20,9 @@ I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
 
             •Bengoli 
              
-            • Kashmiri
+            • Nepali
 
-            Etc...
+            Etc.
 
 #### PASSIONATE LEARNER
 
@@ -71,7 +71,9 @@ you can't even imagine😊😈
 [![Twitter](https://img.shields.io/badge/Twitter-1b77FF.svg?style=for-the-badge&logo=twitter)](https://twitter.com/A_Modern_Mind)
 
 <br>
-
+# My Community on GITHUB 
+<b> 
+           [![PsychoBots](https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github)](https://github.com/PsychoBots)
 
 
 ## THIS IS ALL ABOUT ME😌
