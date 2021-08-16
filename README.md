@@ -2,7 +2,7 @@
 
 # Loverboy is Here🖤
 # ![✨](https://telegra.ph/file/0b3d596d45085b14a97cd.jpg)
-### I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
+### I am [Alone_Loverboy](https://t.me/Alone_loverboy)
 # FOLLOW ME ON GITHUB ❣️
 
 ### About Me😌?
