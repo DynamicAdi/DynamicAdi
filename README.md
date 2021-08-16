@@ -1,6 +1,7 @@
 # H! There👋
 
 # Loverboy is Here🖤
+# [![✨](https://t.me/Alone_loverboy)](https://telegra.ph/file/0b3d596d45085b14a97cd.jpg)
 
 I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
 
@@ -11,18 +12,19 @@ I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
 ##### I am From west bengal, 
 ##### Currently Living IN JAMMU AND KASHMIR since 14years 
 ##### Father's engineer HERE
+# 🍬**⎝⎝ʟᴏᴠᴇʀ's ƓƖƬӇƲƁ ṩƬƛƬṩ⎠⎠**🍭
 
-##### Can speak:- 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=loverboyXD&show_icons=true&theme=tokyonight)
 
-            •English
+ 
 
-            •Hindi
+ # 🍫**⚔łαηgυαgє ωнıcн ı υsє⚔**💻👨‍💻
 
-            •Bengoli 
-             
-            • Nepali
+ 
 
-            Etc.
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loverboyXD&custom_title=Languages%20I%20Use&theme=tokyonight&hide_border=true)
+
+
 
 #### PASSIONATE LEARNER
 
