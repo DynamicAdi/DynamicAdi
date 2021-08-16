@@ -1,8 +1,7 @@
 # H! There👋
 
 # Loverboy is Here🖤
-# [![✨](https://t.me/Alone_loverboy)](https://telegra.ph/file/0b3d596d45085b14a97cd.jpg)
-
+# ![✨](https://telegra.ph/file/0b3d596d45085b14a97cd.jpg)
 I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
 
 ### About Me😌?
