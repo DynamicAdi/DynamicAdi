@@ -2,7 +2,8 @@
 
 # Loverboy is Here🖤
 # ![✨](https://telegra.ph/file/0b3d596d45085b14a97cd.jpg)
-I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
+### I am [Alone_Loverboy]("https://t.me/Alone_loverboy")
+# FOLLOW ME ON GITHUB ❣️
 
 ### About Me😌?
 
@@ -56,7 +57,7 @@ you can't even imagine😊😈
 <details> 
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
-
+<br>
 [![HTML](https://img.shields.io/badge/HTML%20learning-brown?style=for-the-badge&logo=html5)]()
  <br>
 [![PHP](https://img.shields.io/badge/PHP%20learning-purple?style=for-the-badge&logo=php)]()
