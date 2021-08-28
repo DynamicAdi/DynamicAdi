@@ -70,8 +70,8 @@ you can't even imagine😊😈
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD)<br> [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1b77FF.svg?style=for-the-badge&logo=twitter)](https://twitter.com/A_Modern_Mind)
+
 
 <br>
 
