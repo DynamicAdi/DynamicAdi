@@ -61,10 +61,15 @@ you can't even imagine😊😈
 [![HTML](https://img.shields.io/badge/HTML%20Dev-brown?style=for-the-badge&logo=html5)]()
  <br>
 [![PHP](https://img.shields.io/badge/PHP%20Dev-purple?style=for-the-badge&logo=php)]() 
- 
+<br>
 [![CSS](https://img.shields.io/badge/CSS%20Learning-blue?style=for-the-badge&logo=css)]()
+<br>
+[![JAVASCRIPT](https://img.shields.io/badge/Js%20Learning-yellow?style=for-the-badge&logo=javascript)]() 
 
-[![JAVASCRIPT](https://img.shields.io/badge/CSS%20Learning-yellow?style=for-the-badge&logo=javascript)]()
+ 
+
+
+
 </details>
 
 ### SOCIAL MEDIA
