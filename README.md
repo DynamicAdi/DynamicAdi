@@ -58,11 +58,13 @@ you can't even imagine😊😈
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 <br>
-[![HTML](https://img.shields.io/badge/HTML%20learning-brown?style=for-the-badge&logo=html5)]()
+[![HTML](https://img.shields.io/badge/HTML%20Dev-brown?style=for-the-badge&logo=html5)]()
  <br>
-[![PHP](https://img.shields.io/badge/PHP%20learning-purple?style=for-the-badge&logo=php)]()
-    
+[![PHP](https://img.shields.io/badge/PHP%20Dev-purple?style=for-the-badge&logo=php)]() 
+ 
+[![CSS](https://img.shields.io/badge/CSS%20Learning-blue?style=for-the-badge&logo=css)]()
 
+[![JAVASCRIPT](https://img.shields.io/badge/CSS%20Learning-yellow?style=for-the-badge&logo=javascript)]()
 </details>
 
 ### SOCIAL MEDIA
