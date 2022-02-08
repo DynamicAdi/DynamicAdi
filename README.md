@@ -9,7 +9,7 @@
 
 ---
 
-# I am Adarsh || 🧑‍💻 <img src="resources/lover.jpeg" alt="LoverLogo" width="40" height="38">
+# I am Adarsh || 🧑‍💻 <img src="resources/lover.jpeg" alt="LoverLogo" width="48" height="35">
 <ul>
  <li>✨ I am currently focused on Learning </li>
  <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
@@ -67,19 +67,19 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=loverboyXD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ❤️Visitors || Follower🖤
-
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000)
-
-<a href="https://github.com/loverboyXD/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=loverboyXD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 # Contact Me:
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD)<br> [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person)
 [![Twitter](https://img.shields.io/badge/Twitter-teal?style=for-the-badge&logo=twitter)](https://twitter.com/A_Modern_Mind)
 
 [![Ask](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https:t.me/Alone_loverboy)
 
-<br>
+<br> 
+
+## ❤️Visitors || Follower🖤
+
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000)
+
+<a href="https://github.com/loverboyXD/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=loverboyXD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 # ~Thanks...💖🥰
 
