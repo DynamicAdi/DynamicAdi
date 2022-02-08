@@ -27,7 +27,7 @@
 
 <hr>
 
-# Languages <img src="resources/coding.gif" alt="coding" width='10' hight='15'>
+# Languages <img src="resources/coding.gif" alt="coding" width='20' hight='20'>
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 
