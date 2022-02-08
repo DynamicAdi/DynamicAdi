@@ -1,18 +1,27 @@
 # H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-
-# Loverboy is Here🖤 
 # ![✨](https://telegra.ph/file/e93fe38e932b88cb20e30.jpg)
-### I am [Alone_Loverboy](https://t.me/Alone_loverboy)
-# FOLLOW ME ON GITHUB ❣️
 
-### About Me😌?
+<hr>
 
-##### My RealName:- Dev Adarsh pandit 😊•
+---
 
-##### I am From west bengal, 
-##### Currently Living IN JAMMU AND KASHMIR since 14years 
-##### Father's engineer HERE
-# 🍬**⎝⎝ʟᴏᴠᴇʀ's ƓƖƬӇƲƁ ṩƬƛƬṩ⎠⎠**🍭
+# I am Adarsh |🧑‍💻🧪
+<ul>
+ <li>✨ I am currently focused on Learning </li>
+ <li>📱Contact me via Social Media </li>
+ <li>🚓 👯 I’m looking to collaborate to work togwther </li>
+ <li>🆘Ready to Help!! </li>
+</ul>
+
+<hr>
+
+# ⚙️My Tools🛠️
+<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
+<a href="https://git-scm.com/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13063314" height="30" width="40" /></a>
+
+# 🍬**ʟᴏᴠᴇʀ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
 
  ![github stats](https://github-readme-stats.vercel.app/api?username=loverboyXD&show_icons=true&theme=tokyonight)
 
