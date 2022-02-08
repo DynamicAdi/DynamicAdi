@@ -1,10 +1,10 @@
 # H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> !!
 
-<p align="centre">
-<img src="resources/coding.gif" alt="Logo">
 
-</p> 
- 
+<img src="resources/coding.gif" alt="Logo" align="centre">
+
+
+
 <hr>
 
 ---
