@@ -5,10 +5,10 @@
 
 ---
 
-# I am Adarsh |🧑‍💻🧪
+# I am Adarsh || 🧑‍💻⚛
 <ul>
  <li>✨ I am currently focused on Learning </li>
- <li>📱Contact me via Social Media </li>
+ <li>📱Contact me via ![Social Media](Contact Me) </li>
  <li>🚓 👯 I’m looking to collaborate to work together </li>
  <li>🆘Ready to Help!! </li>
 </ul>
@@ -27,7 +27,7 @@
 
 <hr>
 
-# Languages <img src="resources/coding.gif" alt="coding" width='45' hight='50'>
+# Languages <img src="resources/coding.gif" alt="coding" width='55' hight='55'>
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 
@@ -63,7 +63,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=loverboyXD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ❤️Visitors | Follower🖤
+## ❤️Visitors || Follower🖤
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000)
 
