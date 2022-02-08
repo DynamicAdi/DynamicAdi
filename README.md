@@ -8,7 +8,7 @@
 # I am Adarsh || 🧑‍💻⚛
 <ul>
  <li>✨ I am currently focused on Learning </li>
- <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me" Social Media </a> </li>
+ <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
  <li>🚓 👯 I’m looking to collaborate to work together </li>
  <li>🆘Ready to Help!! </li>
 </ul>
