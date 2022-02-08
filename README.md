@@ -9,7 +9,7 @@
 
 ---
 
-# I am Adarsh || 🧑‍💻 <img src="resources/lover.jpeg" alt="LoverLogo" width="40" height="30">
+# I am Adarsh || 🧑‍💻 <img src="resources/lover.jpeg" alt="LoverLogo" width="40" height="35">
 <ul>
  <li>✨ I am currently focused on Learning </li>
  <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
@@ -31,7 +31,7 @@
 
 <hr>
 
-# Languages <img src="resources/lang.gif" alt="coding" width='60' height='20'>
+# Languages <img src="resources/lang.gif" alt="coding" width='60' height='28'>
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 
