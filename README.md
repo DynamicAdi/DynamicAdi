@@ -9,7 +9,7 @@
 
 ---
 
-# I am Adarsh || <img src="resources/lover.jpeg" alt="LoverLogo" width="40" height="40">
+# I am Adarsh || <img src="resources/lover.jpeg" alt="LoverLogo" width="45" height="37">
 <ul>
  <li>✨ I am currently focused on Learning </li>
  <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
