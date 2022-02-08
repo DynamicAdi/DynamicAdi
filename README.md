@@ -1,9 +1,9 @@
 # H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> !!
 
 
-<img src="resources/coding.gif" alt="Logo" align="right">
+<img src="resources/coding.gif" alt="Logo" align="center">
 
-
+<br>
 
 <hr>
 
@@ -31,7 +31,7 @@
 
 <hr>
 
-# Languages <img src="resources/lang.gif" alt="coding" width='55' height='55'>
+# Languages <img src="resources/lang.gif" alt="coding" width='55' height='45'>
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 
