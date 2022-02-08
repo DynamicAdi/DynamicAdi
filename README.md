@@ -1,11 +1,11 @@
-# H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-# ![✨](https://telegra.ph/file/e93fe38e932b88cb20e30.jpg)
+# H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> !!
+#
 
 <hr>
 
 ---
 
-# I am Adarsh || 🧑‍💻⚛
+# I am Adarsh || 🧑‍💻<img src="resources/lover.jpeg" alt="LoverLogo" width="57" height="55">
 <ul>
  <li>✨ I am currently focused on Learning </li>
  <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
@@ -27,7 +27,7 @@
 
 <hr>
 
-# Languages <img src="resources/coding.gif" alt="coding" width='55' hight='55'>
+# Languages <img src="resources/coding.gif" alt="coding" width='55' height='55'>
 
 [![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
 
