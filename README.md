@@ -1,15 +1,15 @@
 # H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> !!
 
-
+<p align="center">
 <img src="resources/coding.gif" alt="Logo" align="center">
-
+</p>
 <br>
 
 <hr>
 
 ---
 
-# I am Adarsh || 🧑‍💻 <img src="resources/lover.jpeg" alt="LoverLogo" width="48" height="35">
+# I am Adarsh || 🧑‍💻 <img src="resources/lover.jpeg" alt="LoverLogo" width="50" height="50">
 <ul>
  <li>✨ I am currently focused on Learning </li>
  <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
