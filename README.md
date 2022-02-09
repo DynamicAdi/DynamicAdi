@@ -93,9 +93,9 @@
 
 <hr> 
 
-## ❤️Visitors || Follower🖤
-
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000) 
+# ❤️Visitors || Follower🖤
+## ғᴏʟʟᴏᴡ Mᴇ Nᴏᴡ!!! 
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Followers&maxAge=2592000) 
 
 <hr> 
 <hr>
@@ -105,7 +105,7 @@
 <p align="center">
 <a href="https://GitHub.com/loverboyXD"> 
 <img src="https://img.shields.io/badge/Adarsh-0000b3?style=for-the-badge&logo=dev.to&logoColor=red">
-<img src="https://img.shields.io/badge/LoverboyXD-000080?style=for-the-badge&logo=hyperledger&logoColor=white">
+<img src="https://img.shields.io/badge/LoverboyXD-000080?style=for-the-badge&logo=hyperledger&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-black?style=for-the-badge&logo=heart">
 </a>
 </p>
