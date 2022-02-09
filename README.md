@@ -93,14 +93,21 @@
 
 <hr> 
 
-# ❤️Visitors || Follower🖤
-## ғᴏʟʟᴏᴡ Mᴇ Nᴏᴡ!!! 
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Followers&maxAge=2592000) 
+## ❤️Visitors || Follower🖤
 
-<hr> 
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Followers&maxAge=2592000) <br> 
+[![follow](https://img.shields.io/badge/Follow%20ME%20Now!!-4d2600?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/loverboyXD)
+
+
+
+<hr>
 <hr>
 
+
+
+
 # ~Thanks...To Visit❤️🥰
+
 
 <p align="center">
 <a href="https://GitHub.com/loverboyXD"> 
