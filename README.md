@@ -30,6 +30,7 @@
 ![power](https://img.shields.io/badge/-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![github](https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![gitlab](https://img.shields.io/badge/-330F63?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Google Chrome](https://img.shields.io/badge/-e60000?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![edge](https://img.shields.io/badge/-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![vscode](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![os](https://img.shields.io/badge/-0078D6?style=for-the-badge&logo=windows&logoColor=white)
