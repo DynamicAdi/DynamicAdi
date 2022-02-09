@@ -1,4 +1,5 @@
 # H! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> !!
+<hr> 
 
 <p align="center">
 <img src="resources/coding.gif" alt="Logo" align="center">
@@ -31,7 +32,7 @@
 ![github](https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![gitlab](https://img.shields.io/badge/-330F63?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Google Chrome](https://img.shields.io/badge/-e60000?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![edge](https://img.shields.io/badge/-8cff1a?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![edge](https://img.shields.io/badge/-73e600?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![vscode](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![os](https://img.shields.io/badge/-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -39,7 +40,7 @@
 
 <hr>
 
-# Languages <img src="resources/lang.gif" alt="coding" width='55' height='28'>
+# Lαηgυαgєs <img src="resources/lang.gif" alt="coding" width='55' height='28'>
 
 [![PYTHON💙](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)]()
 
@@ -66,14 +67,21 @@
     </a>
 </p>
 
- # **Lαηgυαgє ωнıcн ı υsє**👨‍💻
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loverboyXD&custom_title=Languages%20I%20Use%20Most&theme=tokyonight&hide_border=true)
+<hr>
+ 
+ ![Top Langu Lαηgυαgє ages](https://github-readme-stats.vercel.app/api/top-langs/?username=loverboyXD&custom_title=Languages%20I%20Use%20Most&theme=tokyonight&hide_border=true)
  <br/>
   <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-  
+
+<hr>
+
+
 ## Trophys🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=loverboyXD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr>
+<hr> 
 
 # Contact Me:
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD)<br> [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person)
@@ -82,12 +90,18 @@
 [![Ask](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https:t.me/Alone_loverboy)
 
 <br> 
+<hr> 
 
 ## ❤️Visitors || Follower🖤
 
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000) 
+
+<hr>
+<hr>
 
 <a href="https://github.com/loverboyXD/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=loverboyXD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<hr> 
+<hr> 
 
 # ~Thanks...💖🥰
 <p align="center">
