@@ -22,8 +22,8 @@
 # ⚙️My Tools🛠️
 ![android](https://img.shields.io/badge/-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![stack](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
-![mongo](https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![heroku](https://img.shields.io/badge/-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![mongo](https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![node](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![react](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![repl](https://img.shields.io/badge/-667881?style=for-the-badge&logo=replit&logoColor=white) 
