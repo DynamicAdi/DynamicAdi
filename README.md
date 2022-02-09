@@ -65,7 +65,10 @@
     <a href="https://github.com/loverboyXD/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="loverboyXD's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=loverboyXD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> 
+<hr> 
+
+<a href="https://github.com/loverboyXD/github-readme-activity-graph"><img alt="lovers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=loverboyXD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
  
@@ -74,7 +77,6 @@
   <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
 <hr>
-
 
 ## Trophys🏆
 
@@ -89,26 +91,22 @@
 
 [![Ask](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https:t.me/Alone_loverboy)
 
-<br> 
 <hr> 
 
 ## ❤️Visitors || Follower🖤
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=loverboyXD) | ![follower](https://img.shields.io/github/followers/loverboyXD.svg?style=social&label=Follow&maxAge=2592000) 
 
-<hr>
+<hr> 
 <hr>
 
-<a href="https://github.com/loverboyXD/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=loverboyXD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<hr> 
-<hr> 
+# ~Thanks...To Visit❤️🥰
 
-# ~Thanks...💖🥰
 <p align="center">
-<a href="https://github.com/loverboyXD">
-<img src="https://img.shields.io/badge/LoverBoyXD-red?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+">
+<a href="https://GitHub.com/loverboyXD"> 
+<img src="https://img.shields.io/badge/Adarsh-0000b3?style=for-the-badge&logo=dev.to&logoColor=red">
+<img src="https://img.shields.io/badge/LoverboyXD-000080?style=for-the-badge&logo=hyperledger&logoColor=white">
+<img src="https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-black?style=for-the-badge&logo=heart">
 </a>
 </p>
-<br> 
-
-[![THANKS](https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-black?style=for-the-badge&logo=heart-height=5)](https://GitHub.com/loverboyXD) ⋮⋮ <img src="resources/lover.jpeg" alt="LoverLogo" width="60" height="50">
+<hr>
