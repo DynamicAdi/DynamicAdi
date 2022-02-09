@@ -10,7 +10,7 @@
 
 ---
 
-# I am Adarsh || 
+# I am Adarsh || <img src="resources/lover.jpeg" alt="logo" width="35" height="30">
 <ul>
  <li>✨ I am currently focused on Learning </li>
  <li>📱Contact me via <a href="https://github.com/loverboyXD/loverboyXd/blob/lover/README.md#contact-me"> Social Media </a> </li>
