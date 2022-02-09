@@ -20,28 +20,35 @@
 <hr>
 
 # ⚙️My Tools🛠️
-<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
-<a href="https://git-scm.com/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13063314" height="30" width="40" /></a>
-![editor](https://img.shields.io/badge/VSCode-1f425f.svg)
-![os](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![android](https://img.shields.io/badge/-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![stack](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+![mongo](https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![heroku](https://img.shields.io/badge/-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![node](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![react](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![repl](https://img.shields.io/badge/-667881?style=for-the-badge&logo=replit&logoColor=white) 
+![power](https://img.shields.io/badge/-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![github](https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white) 
+![gitlab](https://img.shields.io/badge/-330F63?style=for-the-badge&logo=gitlab&logoColor=white) 
+![edge](https://img.shields.io/badge/-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![vscode](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![os](https://img.shields.io/badge/-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <hr> 
 
 <hr>
 
-# Languages <img src="resources/lang.gif" alt="coding" width='60' height='28'>
+# Languages <img src="resources/lang.gif" alt="coding" width='55' height='28'>
 
-[![PYTHON💙](https://img.shields.io/badge/python%20dev-yellow?style=for-the-badge&logo=python)]()
+[![PYTHON💙](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)]()
 
-[![HTML](https://img.shields.io/badge/HTML%20Dev-brown?style=for-the-badge&logo=html5)]()
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-[![PHP](https://img.shields.io/badge/PHP%20Dev-purple?style=for-the-badge&logo=php)]() 
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-[![CSS](https://img.shields.io/badge/CSS%20Learning-blue?style=for-the-badge&logo=c3ss)]()
+![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript%20Dev-teal?style=for-the-badge&logo=javascript)]() 
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)]() 
 
 <hr> 
 
