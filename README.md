@@ -52,6 +52,8 @@
 
 ![xml](https://img.shields.io/badge/XML-002970?style=for-the-badge&logo=xml&logoColor=00BAF2) 
 
+![json](https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json&logoColor=white) 
+
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)]() 
 
 <hr> 
