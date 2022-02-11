@@ -50,6 +50,8 @@
 
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![xml](https://img.shields.io/badge/XML-002970?style=for-the-badge&logo=xml&logoColor=00BAF2) 
+
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)]() 
 
 <hr> 
