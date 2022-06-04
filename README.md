@@ -42,19 +42,14 @@
 
 # Lαηgυαgєs <img src="resources/lang.gif" alt="coding" width='55' height='28'>
 
-[![PYTHON💙](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)]()
-
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![xml](https://img.shields.io/badge/XML-002970?style=for-the-badge&logo=xml&logoColor=00BAF2) 
-
-![json](https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json&logoColor=white) 
-
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)]() 
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)
+![PYTHON](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LUA](https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua) 
+![JSON](https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json&logoColor=white) 
+![XML](https://img.shields.io/badge/XML-963500?style=for-the-badge&logo=xml&logoColor=00BAF2) 
 
 <hr> 
 
@@ -90,7 +85,9 @@
 <hr> 
 
 # Contact Me:
-[![Telegram](https://img.shields.io/badge/telegram-yellow.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD) [![Instagram](https://img.shields.io/badge/instagram-ff0066?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person) [![Twitter](https://img.shields.io/badge/Twitter-1b77FF?style=for-the-badge&logo=twitter)](https://twitter.com/Modern_Coder)
+[![Telegram](https://img.shields.io/badge/telegram-yellow.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) 
+[![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD) 
+[![Instagram](https://img.shields.io/badge/instagram-ff0357?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person) [![Twitter](https://img.shields.io/badge/Twitter-1b77FF?style=for-the-badge&logo=twitter)](https://twitter.com/Modern_Coder)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpanditdev@gmail.com) <br>
 <p align="center">
 <a href="https://t.me/Alone_loverboy">
