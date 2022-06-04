@@ -87,7 +87,8 @@
 # Contact Me:
 [![Telegram](https://img.shields.io/badge/telegram-yellow.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) 
 [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/loverboyXD) 
-[![Instagram](https://img.shields.io/badge/instagram-ff0357?style=for-the-badge&logo=instagram)](https://instagram.me/mesterious.person) [![Twitter](https://img.shields.io/badge/Twitter-1b77FF?style=for-the-badge&logo=twitter)](https://twitter.com/Modern_Coder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.me/itz_.programmer) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Modern_Coder)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpanditdev@gmail.com) <br>
 <p align="center">
 <a href="https://t.me/Alone_loverboy">
