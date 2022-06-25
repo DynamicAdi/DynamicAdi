@@ -90,7 +90,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.me/itz_.programmer) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Modern_Coder)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpanditdev@gmail.com)
-[![My Website](https://img.shields.io/badge/%F0%9F%8C%90My%20-Website-d15000?style=for-the-badge)](https://adarshpandit.netlify.app)
+[![My Website](https://img.shields.io/badge/%F0%9F%8C%90My%20-Website-d15000?style=for-the-badge)](https://DevAdarsh.me/)
 
 <br>
 <hr> 
