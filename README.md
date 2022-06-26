@@ -55,7 +55,7 @@
 
 <hr> 
 
-# 🍬**ʟᴏᴠᴇʀ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
+# 🍬**Ɗყηᴀʍɨᴄ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
 <a href="https://github.com/DynamicAdi/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DynamicAdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <hr>
@@ -106,10 +106,10 @@
 # ~Thanks...To Visit❤️🥰
 
 <p align="center">
-<a href="https://GitHub.com/DynamicAdi"> 
+<a href="https://DevAdarsh.me/"> 
 <img src="https://img.shields.io/badge/Adarsh-0000b3?style=for-the-badge&logo=dev.to&logoColor=red">
 </a> 
-<a href="https://DevAdarsh.me/">
+<a href="https://github.com/DynamicADI/">
 <img src="https://img.shields.io/badge/DynamicAdi-000080?style=for-the-badge&logo=hyperledger&logoColor=white"></a> <br>
 <img src="https://img.shields.io/badge/Thanks%20To%20Visit%20Here%20❤️-black?style=for-the-badge&logo=heart">
 </p>
