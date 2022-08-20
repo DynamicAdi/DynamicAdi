@@ -13,7 +13,7 @@
 # I am Adarsh || <img src="resources/lover.jpeg" alt="logo" width="35" height="30">
 <ul>
  <li>✨ I am currently focused on Learning </li>
- <li>📱Contact me via <a href="https://github.com/DynamicAdi/DynamicAdi/blob/lover/README.md#contact-me"> Social Media </a> </li>
+ <li>📱Contact me via <a href="https://DevAdarsh.me/contact"> Social Media </a> </li>
  <li>🚓 👯 I’m looking to collaborate to work together </li>
  <li>🆘Ready to Help!! </li>
 </ul>
@@ -90,6 +90,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.me/itz_.programmer) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Modern_Coder)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpanditdev@gmail.com)
+[![CodePen](https://img.shields.io/badge/codepen-grey.svg?style=for-the-badge&logo=codepen)](https://codepen.io/Dynamic_Adi)
 [![My Website](https://img.shields.io/badge/%F0%9F%8C%90My%20-Website-d15000?style=for-the-badge)](https://DevAdarsh.me/)
 
 <br>
