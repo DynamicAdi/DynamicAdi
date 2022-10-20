@@ -81,6 +81,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DynamicAdi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![@dynamicadi's Holopin board](https://holopin.me/dynamicadi)](https://holopin.io/@dynamicadi)
 <hr>
 <hr> 
 
