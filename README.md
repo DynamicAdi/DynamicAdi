@@ -92,6 +92,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Modern_Coder)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpanditdev@gmail.com)
 [![CodePen](https://img.shields.io/badge/codepen-grey.svg?style=for-the-badge&logo=codepen)](https://codepen.io/Dynamic_Adi)
+[![Youtube](https://img.shields.io/badge/Youtube-E31414?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC10rfqjb_XdGt31MIUjYN6Q/)
 [![My Website](https://img.shields.io/badge/%F0%9F%8C%90My%20-Website-d15000?style=for-the-badge)](https://DevAdarsh.me/)
 
 <br>
