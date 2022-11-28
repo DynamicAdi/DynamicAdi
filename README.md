@@ -44,46 +44,20 @@
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![scss](https://img.shields.io/badge/SASS-FC034E?style=for-the-badge&logo=sass&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)
+![ReactJs](https://img.shields.io/badge/ReactJs-grey?style=for-the-badge&logo=react)
 ![PYTHON](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LUA](https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua) 
-![JSON](https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json&logoColor=white) 
+![JSON](https://img.shields.io/badge/json-111?style=for-the-badge&logo=json&logoColor=white) 
 ![XML](https://img.shields.io/badge/XML-963500?style=for-the-badge&logo=xml&logoColor=00BAF2) 
 
 <hr> 
 
 <hr> 
-
-# 🍬**Ɗყηᴀʍɨᴄ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
-<a href="https://github.com/DynamicAdi/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DynamicAdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
+<br>
 <hr>
-
- <p align="left">
-    <a href="https://github.com/DynamicAdi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DynamicAdi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DynamicAdi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> 
-<hr> 
-
-<a href="https://github.com/DynamicAdi/github-readme-activity-graph"><img alt="lovers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DynamicAdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<hr>
- 
- ![Top Langu Lαηgυαgє ages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&custom_title=Languages%20I%20Use%20Most&theme=tokyonight&hide_border=true)
- <br/>
-  <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-
-<hr>
-
-## Trophys🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DynamicAdi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![@dynamicadi's Holopin board](https://holopin.me/dynamicadi)](https://holopin.io/@dynamicadi)
-<hr>
-<hr> 
 
 # Contact Me:
 [![Telegram](https://img.shields.io/badge/telegram-yellow.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) 
@@ -95,16 +69,51 @@
 [![CodePen](https://img.shields.io/badge/codepen-grey.svg?style=for-the-badge&logo=codepen)](https://codepen.io/Dynamic_Adi)
 [![Youtube](https://img.shields.io/badge/Youtube-E31414?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC10rfqjb_XdGt31MIUjYN6Q/)
 [![My Website](https://img.shields.io/badge/%F0%9F%8C%90My%20-Website-d15000?style=for-the-badge)](https://DevAdarsh.me/)
-
-<br>
+ 
 <hr> 
 
+<hr>
+
+<br>
+# 🍬**Ɗყηᴀʍɨᴄ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
+<a href="https://github.com/DynamicAdi/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DynamicAdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<hr>
+
+ <p align="left">
+    <a href="https://github.com/DynamicAdi/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DynamicAdi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DynamicAdi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> 
+<hr> 
+<hr>
+
+<a href="https://github.com/DynamicAdi/github-readme-activity-graph"><img alt="lovers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DynamicAdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<hr>
+ <hr>
+ 
+ ![Top Langu Lαηgυαgє ages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&custom_title=Languages%20I%20Use%20Most&theme=tokyonight&hide_border=true)
+ <br/>
+  <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+
+<hr>
+<hr>
+
+## Trophys🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DynamicAdi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![@dynamicadi's Holopin board](https://holopin.me/dynamicadi)](https://holopin.io/@dynamicadi)
+<hr>
+<hr> 
+
+<br>
 ## ❤️Visitors || Follower🖤
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=DynamicAdi) | ![follower](https://img.shields.io/github/followers/DynamicAdi.svg?style=social&label=Followers&maxAge=2592000) <br> 
 [![follow](https://img.shields.io/badge/Follow%20ME%20Now!!-4d2600?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DynamicAdi)
 
-<hr>
 <hr>
 
 # ~Thanks...To Visit❤️🥰
