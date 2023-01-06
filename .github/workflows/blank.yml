@@ -1,4 +1,0 @@
-- name: Set Git User
-  # You may pin to the exact commit or the version.
-  # uses: git-actions/set-user@49fa9362373dabe0bfcbdb5e8d4da08045ebf6f8
-  uses: git-actions/set-user@v1.0.0
