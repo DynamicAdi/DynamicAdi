@@ -56,7 +56,8 @@
 <hr> 
 <hr>
 
-# Contact Me:
+# 𝙻𝚎𝚝𝚜 𝙶𝚎𝚝 𝚒𝚗 𝚃𝚘𝚞𝚌𝚑☎️:
+
 [![Telegram](https://img.shields.io/badge/telegram-yellow.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) 
 [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/DynamicAdi) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.me/itz_.programmer) 
@@ -72,6 +73,8 @@
 <hr>
 
 # 🍬**Ɗყηᴀʍɨᴄ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
+
+<hr> 
 
 [![Metrics](https://metrics.lecoq.io/dynamicAdi?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://dynamicAdi.me)
 
@@ -90,16 +93,17 @@
 <!--  ///////////////////// Activity-->
 
 <hr>
- <hr>
- 
- <br/>
- 
- # WakeUp Time With Languages 🧑🏻‍💻
+<hr>
+
+## 𝗖𝗢𝗗𝗘 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘💻:
+
+<hr>
+ <b>•Cᴏᴅᴇ Tɪᴍᴇ🧑🏻‍💻:</b>
  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
- <b>ᴍᴏṩᴛ ᴜṩᴇᴅ ʟᴀɴɢᴜᴀɢᴇṩ:</b>
+ <b>•Mᴏṩᴛ Uṩᴇᴅ Lᴀɴɢᴜᴀɢᴇṩ:</b>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&theme=transparent)](https://github.com/dynamicadi/github-readme-stats) 
  
@@ -122,7 +126,7 @@
 
 <br>
 
-## ❤️Visitors || Follower🖤
+# ❤️Visitors || Follower🖤
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=DynamicAdi) | ![follower](https://img.shields.io/github/followers/DynamicAdi.svg?style=social&label=Followers&maxAge=2592000) <br> 
 [![follow](https://img.shields.io/badge/Follow%20ME%20Now!!-4d2600?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DynamicAdi)
