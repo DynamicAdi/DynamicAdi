@@ -108,7 +108,6 @@
  [![LoC](https://api.githubtrends.io/user/svg/DynamicAdi/langs?time_range=one_year&loc_metric=changed&theme=synthwaves)](https://devAdarsh.me/)
 
   <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
- <hr>
  
 <hr>
 <hr>
