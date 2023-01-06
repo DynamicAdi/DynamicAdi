@@ -102,11 +102,13 @@
  <b> Most Used Languages:</b>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&theme=transparent)](https://github.com/dynamicadi/github-readme-stats) 
+ 
+ <b> Lines of Codes </b> 
+
  [![LoC](https://api.githubtrends.io/user/svg/DynamicAdi/langs?time_range=one_year&loc_metric=changed&theme=synthwaves)](https://devAdarsh.me/)
 
   <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
  <hr>
- <b> Line of Codes:</b>
  
 <hr>
 <hr>
