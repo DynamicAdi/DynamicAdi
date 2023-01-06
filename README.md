@@ -99,11 +99,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
- <b> Most Used Languages:</b>
+ <b>ᴍᴏṩᴛ ᴜṩᴇᴅ ʟᴀɴɢᴜᴀɢᴇṩ:</b>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&theme=transparent)](https://github.com/dynamicadi/github-readme-stats) 
  
- <b> Lines of Codes </b> 
+ <b>•Lɪɴᴇ ᴏғ ᴄᴏᴅᴇ:</b> 
 
  [![LoC](https://api.githubtrends.io/user/svg/DynamicAdi/langs?time_range=one_year&loc_metric=changed&theme=synthwaves)](https://devAdarsh.me/)
 
