@@ -93,6 +93,10 @@
  <hr>
  
  <br/>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  <b> Most Used Languages:</b>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&theme=transparent)](https://github.com/dynamicadi/github-readme-stats) 
