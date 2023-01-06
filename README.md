@@ -54,9 +54,6 @@
 ![XML](https://img.shields.io/badge/XML-963500?style=for-the-badge&logo=xml&logoColor=00BAF2) 
 
 <hr> 
-
-<hr> 
-<br>
 <hr>
 
 # Contact Me:
@@ -74,9 +71,14 @@
 
 <hr>
 
-<br>
 # 🍬**Ɗყηᴀʍɨᴄ's ƓƖƬӇƲƁ ṩƬƛƬṩ**🍭
-<a href="https://github.com/DynamicAdi/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DynamicAdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+[![Metrics](https://metrics.lecoq.io/dynamicAdi?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://dynamicAdi.me)
+
+---
+<hr> 
+
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=dynamicadi&show_icons=true&theme=transparent)](https://github.com/DynamicAdi/github-readme-stats)
 
 <hr>
 
@@ -85,18 +87,21 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DynamicAdi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DynamicAdi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> 
-<hr> 
-<hr>
-
-<a href="https://github.com/DynamicAdi/github-readme-activity-graph"><img alt="lovers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DynamicAdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--  ///////////////////// Activity-->
 
 <hr>
  <hr>
  
- ![Top Langu Lαηgυαgє ages](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&custom_title=Languages%20I%20Use%20Most&theme=tokyonight&hide_border=true)
  <br/>
+ <b> Most Used Languages:</b>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicAdi&theme=transparent)](https://github.com/dynamicadi/github-readme-stats) 
+ 
   <b>Note:</b> <i> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-
+ <hr>
+ <b> Line of Codes:</b>
+ 
+ [![Lines of Code](https://api.githubtrends.io/user/svg/dynamicAdi/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=transparent)](https://DevAdarsh.me/)
 <hr>
 <hr>
 
@@ -109,6 +114,7 @@
 <hr> 
 
 <br>
+
 ## ❤️Visitors || Follower🖤
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=DynamicAdi) | ![follower](https://img.shields.io/github/followers/DynamicAdi.svg?style=social&label=Followers&maxAge=2592000) <br> 
