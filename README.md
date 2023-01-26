@@ -140,11 +140,11 @@ Other        20 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 # Latest YouTube Videos⏯️:
 
 <!-- YouTube:START -->
+- [React Portfolio Website Tutorial From Scratch🧑🏻‍💻- Build React JS Animated Background | PART - 1❤️‍🔥](https://www.youtube.com/watch?v=4HUjJrlA4ak)
 - [How to make one page cool dynamic hover effect portfolio Design full responsive | @hobbiestcodes](https://www.youtube.com/watch?v=QA5CMVSMxOM)
 - [How to make a simple portfolio website with html and css only &amp; complete responsive| @hobbiestcodes](https://www.youtube.com/watch?v=NO0HcpmoIDM)
 - [How to become front-end developer and get job ready in short time period! || @hobbiestcodes](https://www.youtube.com/watch?v=gM6KUwP2LY8)
 - [share to Junior developer 😂#programming #programmer #python3 #pythonprogramming #pythonfunny](https://www.youtube.com/watch?v=LKQivmWrcnc)
-- [Html tutorials for beginners || PART #1 | @hobbiestcodes​](https://www.youtube.com/watch?v=PFaNPuq8hwQ)
 <!-- YouTube:END -->
 
 # ❤️Visitors || Follower🖤
