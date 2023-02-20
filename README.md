@@ -140,11 +140,11 @@ CSS          29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 # Latest YouTube Videos⏯️:
 
 <!-- YouTube:START -->
+- [It&#39;s not a BUG🐞 It&#39;s a FEATURE 👻😂😂Ever did?😂](https://www.youtube.com/watch?v=ri-ENoiHAXY)
+- [Perfect Songs for Programmers 🧑‍💻😍✨](https://www.youtube.com/watch?v=nI9AqB-FMwc)
+- [Programming Motivation Video😍😍❤️✨](https://www.youtube.com/watch?v=GlnVE6fnTvo)
 - [EVER Happened??🥲🥲|| The Expression of Mice😂🐭 Really Relative🙌!!](https://www.youtube.com/watch?v=bFD7x55vCHE)
 - [React Portfolio Website Tutorial From Scratch🧑🏻‍💻- Dynamic hover contacts information page | PART- 5](https://www.youtube.com/watch?v=-5oyvidp2rg)
-- [React Portfolio Website Tutorial From Scratch🧑🏻‍💻- Build Skills, Languages Bars with SCSS | PART - 4](https://www.youtube.com/watch?v=x2nKDOAPK6g)
-- [React Portfolio Website Tutorial From Scratch🧑🏻‍💻- Build  3D Render Graphics, About page | PART - 3](https://www.youtube.com/watch?v=eaeOZmsuwnw)
-- [React Portfolio Website Tutorial From Scratch🧑🏻‍💻- Build React Js HomePage Components | PART - 2](https://www.youtube.com/watch?v=IIJQy1t5CpA)
 <!-- YouTube:END -->
 
 # ❤️Visitors || Follower🖤
