@@ -47,6 +47,7 @@
 ![scss](https://img.shields.io/badge/SASS-FC034E?style=for-the-badge&logo=sass&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-teal?style=for-the-badge&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/ReactJs-grey?style=for-the-badge&logo=react)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LUA](https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua) 
@@ -56,7 +57,14 @@
 <hr> 
 <hr>
 
+# ᴅᴇѕɪɢɴ ᴛᴏᴏʟѕ 🎨:
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-%8A2BE2.svg?style=for-the-badge&logo=ball&logoColor=white)
 # 𝙻𝚎𝚝𝚜 𝙶𝚎𝚝 𝚒𝚗 𝚃𝚘𝚞𝚌𝚑☎️:
+
+<hr>
+<hr> 
+
 
 [![Telegram](https://img.shields.io/badge/telegram-yellow.svg?style=for-the-badge&logo=telegram)](https://t.me/Alone_loverboy) 
 [![Github](https://img.shields.io/badge/github-171717.svg?style=for-the-badge&logo=github)](https://github.com/DynamicAdi) 
