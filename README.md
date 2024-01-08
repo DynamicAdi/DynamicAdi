@@ -148,11 +148,11 @@ CSS          4 hrs 16 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 # Latest YouTube Videos⏯️:
 
 <!-- YouTube:START -->
+- [eCommerce Website - Project Initialise | Day - 1 of #100daysofcode | Coding Challenge #code #coding](https://www.youtube.com/watch?v=7G2uJ7_HEVw)
 - [CSS TUTORIAL - Know about properties of |-color |-background | Well Explained || @hobbiestcodes](https://www.youtube.com/watch?v=3WVd9SgNngs)
 - [CSS TUTORIAL - Methods to write CSS | What are ID/CLASS? - Learn CSS3 from Basic to Advanced 🔥fast!](https://www.youtube.com/watch?v=m_LjdcscDiU)
 - [What is CSS3? | Why it is Used? | Basics of CSS - CSS Fully Explained with Examples for beginners!](https://www.youtube.com/watch?v=rOzfQFsW99Y)
 - [This is really what a compiler do 😂😂✨ [SUBSCRIBE ❤️]](https://www.youtube.com/watch?v=y2WrSeYqEUY)
-- [A real programmers is always follow these👀❤️✨](https://www.youtube.com/watch?v=zbWmmBNS-0s)
 <!-- YouTube:END -->
 
 # ❤️Visitors || Follower🖤
