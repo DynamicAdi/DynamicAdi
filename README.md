@@ -149,9 +149,9 @@ TypeScript   4 hrs 27 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- YouTube:START -->
 - [Day-3 - Products Carousel, Card design | Ecommerce Website | #100daysofcode #code #codes #ecommerce.](https://www.youtube.com/watch?v=WzhWP6ygViU)
-- [Day 2 - #100daysofcode Created Design for index page | eCommerce website | @hobbiestcodes](https://www.youtube.com/watch?v=outLNj0pklA)
+- [Day 2 - #100daysofcode Created Design for index page | eCommerce website | @Coding_Champions](https://www.youtube.com/watch?v=outLNj0pklA)
 - [eCommerce Website - Project Initialise | Day - 1 of #100daysofcode | Coding Challenge #code #coding](https://www.youtube.com/watch?v=7G2uJ7_HEVw)
-- [CSS TUTORIAL - Know about properties of |-color |-background | Well Explained || @hobbiestcodes](https://www.youtube.com/watch?v=3WVd9SgNngs)
+- [CSS TUTORIAL - Know about properties of |-color |-background | Well Explained || @Coding_Champions](https://www.youtube.com/watch?v=3WVd9SgNngs)
 - [CSS TUTORIAL - Methods to write CSS | What are ID/CLASS? - Learn CSS3 from Basic to Advanced 🔥fast!](https://www.youtube.com/watch?v=m_LjdcscDiU)
 <!-- YouTube:END -->
 
