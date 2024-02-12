@@ -148,7 +148,6 @@ TypeScript   4 hrs 27 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 # Latest YouTube Videos⏯️:
 
 <!-- YouTube:START -->
-- [Become Tech enthusiast expert!](https://www.youtube.com/watch?v=4nNRPNIO1Qw)
 - [Become a Tech Expert | Learn from @Coding_champions](https://www.youtube.com/watch?v=LVtl1tmJtSE)
 <!-- YouTube:END -->
 
